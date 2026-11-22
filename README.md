@@ -19,7 +19,7 @@
 
 ## About
 
-Hi, I'm Pisit. I'm interested in scientific research and programming, particularly C++, algorithms, and data structures. I enjoy exploring new ideas and applying them to solve problems.
+Hi, I'm Pisit. I'm interested in scientific research and programming, especially C++, algorithms, and data structures. I enjoy exploring new ideas and solving problems.
 
 ## Highlights
 
@@ -27,31 +27,31 @@ Hi, I'm Pisit. I'm interested in scientific research and programming, particular
   <tr>
     <td width="50%" valign="top">
       <strong>Regeneron ISEF 2025</strong><br/>
-      2nd Place Grand Award. One of the world's largest pre-college science and engineering competitions, bringing together top high school researchers selected through affiliated science fairs worldwide.
+      2nd Place Grand Award. The world's largest pre-college science and engineering competition, featuring finalists from over 60 countries.
     </td>
     <td width="50%" valign="top">
       <strong>Genius Olympiad 2025</strong><br/>
-      Gold Medal, Science category. An international high school competition focused on environmental research, with participants from over 60 countries, held at Rochester Institute of Technology, USA.
+      Gold Medal, Science. An international high school competition focused on environmental research, with submissions from 66 countries.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <strong>Prime Minister's Science Award 2025</strong><br/>
-      Recognized for an outstanding science project at the national level, selected by Thailand's Ministry of Higher Education, Science, Research and Innovation.
+      National award recognizing outstanding science projects by young researchers in Thailand.
     </td>
     <td width="50%" valign="top">
       <strong>TYSF 2024</strong><br/>
-      Royal Trophy and Gold Medal in Biological Sciences at the 20th Thailand Young Scientist Festival, a national science project competition.
+      Royal Trophy and Gold Medal, Biological Sciences. A national science project competition for young researchers.
     </td>
   </tr>
 </table>
 
 ## Other Awards
 
-- **Dow Innovation Award 2025** - Recognized for innovation in science and technology.
+- **Dow Innovation Award 2025**
 - **Indonesia Inventors Day 2025**
   - Gold Medal
-  - Special Award for The Best International Invention, presented by the Malaysian Association of Research Scientists (MARS).
+  - Special Award for The Best International Invention, presented by MARS.
 
 ## Programs & Opportunities
 
