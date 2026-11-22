@@ -1,16 +1,19 @@
-## Hi there 👋
+# Pisit Arsirawichai
 
-<!--
-**sensepisit/sensepisit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in computer science, research, and programming.
 
-Here are some ideas to get you started:
+## Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Regeneron ISEF 2025 — Grand Award, Second Award
+- Selected for POSN Computer Olympiad, Camp 2
+  - Studied C++ and advanced data structures
+
+## Areas I've Explored
+
+- Artificial Intelligence and Large Language Models
+- Computer Vision
+- C++ and Data Structures
+
+## Projects
+
+Take a look at my pinned repositories below to see some of the projects I've worked on.
