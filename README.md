@@ -4,7 +4,7 @@ I'm a student interested in computer science, research, and programming.
 
 ## Background
 
-- Regeneron ISEF 2025 — Grand Award, Second Award
+- Regeneron ISEF 2025: Grand Award, Second Award
 - Selected for POSN Computer Olympiad, Camp 2
   - Studied C++ and advanced data structures
 
